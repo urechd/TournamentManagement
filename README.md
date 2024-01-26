@@ -1,2 +1,2 @@
-# TournamentTool
-A Tournament Tool to generate brackets
+# TournamentManagement
+A Tournament Management Tool to generate brackets
