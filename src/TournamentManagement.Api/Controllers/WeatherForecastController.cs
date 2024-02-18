@@ -1,6 +1,6 @@
 using Microsoft.AspNetCore.Mvc;
 
-namespace TournamentManagement.Controllers
+namespace TournamentManagement.Api.Controllers
 {
     [ApiController]
     [Route("[controller]")]
